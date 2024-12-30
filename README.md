@@ -10,7 +10,7 @@
 # 我的技能
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-C++-5FB832?style=flat-square&logo=Spring&logoColor=fff)
+![](https://img.shields.io/badge/-C++-5FB832?style=flat-square&logo=C++&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TS-339933?style=flat-square&logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
