@@ -1,25 +1,39 @@
-# 我是 C1own
+# Hi, I'm C1own 👋
 
-您好👋，我是一名大四学生，主要技术栈为 Java + Vue/React，希望我的开源项目能被更多人关注到。
+Java / Full-stack Developer.
 
-- 🧑‍💻 码龄 3 年，个人博客：<a href="https://blog.hejiajun.icu/" target="_blank">雪荷的博客</a>
-- 🌱 正在学习编程，热爱知识分享，CSDN 主页：<a href="https://blog.csdn.net/xyendjsj?type=blog" target="_blank">Java 雪荷</a>
-- ⭐️ 个人网站：<a href="http://hm.hejiajun.icu/" target="_blank">厚米匹配系统</a>
-- 💻 开源项目：<a href="https://github.com/dnwwdwd/homieMatching" target="_blank">厚米匹配</a>｜<a href="https://github.com/dnwwdwd/Lingxi-BI" target="_blank">灵犀 BI</a>｜<a href="https://github.com/dnwwdwd/interview-dog" target="_blank">面试狗🐶</a>
+Recently, I've been spending most of my time exploring **AI Agents, Coding Tools, Vibe Coding, and open-source projects**.
 
-# 我的技能
+I like to run tools myself, break them down, see where they work well, and document the problems I hit along the way.
 
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-C++-5FB832?style=flat-square&logo=C++&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-TS-339933?style=flat-square&logo=typescript&logoColor=fff)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+* 🤖 AI Agents / Coding Tools / Vibe Coding
+* 🧩 Agent Harness / MCP / Skills / RAG
+* 🛠️ Java / Spring Boot / TypeScript / Next.js
+* ✍️ [blog.hejiajun.com](https://blog.hejiajun.com)
+* 🐦 [X @C1ownhjj](https://x.com/C1ownhjj)
 
+## Projects
 
-# 今年汇总
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=dnwwdwd&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+### 📝 [Notus](https://github.com/dnwwdwd/Notus)
+
+A local-first Markdown knowledge workspace with a built-in AI Agent.
+
+It combines knowledge retrieval, AI-assisted writing, reviewable file edits, web search, MCP, Skills, and resumable Agent tasks.
+
+🌐 [notus.hejiajun.com](https://notus.hejiajun.com)
+
+### 🧩 [Project Vibe Spec](https://github.com/dnwwdwd/project-vibe-spec)
+
+A workflow and project-governance skill for Vibe Coding.
+
+It keeps requirements, design decisions, project facts, implementation, validation, and progress in a traceable workflow so Coding Agents can work with stable project context over time.
+
+### 🔍 [GitHub Repo Crawler](https://github.com/dnwwdwd/github-repo-crawler)
+
+A GitHub repository research Skill for Coding Agents.
+
+It searches repositories, reads README files, directory trees, and selected source files, then lets the Agent analyze architecture, dependencies, risks, and project structure based on actual evidence.
+
+## Currently Exploring
+
+`Claude Code` · `Codex` · `Agent Harness` · `MCP` · `Skills` · `RAG` · `Vibe Coding`
